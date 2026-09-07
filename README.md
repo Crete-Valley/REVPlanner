@@ -1,10 +1,10 @@
-# Integrated energy planning modules
+# REVPlanner
+User friendly tool for renewable energy planning that addresses technical considerations, environmental protection and social concerns, influencing the creation of REVs
+## Integrated energy planning modules
 
 Public/reduced version of the integration code prepared for publication in GitHub. The main integration layer is:
 
 `api/services/scripts/module_integration.py`
-
-Only the modules required by the supplied entry scripts are included. Experimental files, historical versions, IDE metadata, caches and generated outputs from the development copy have been removed.
 
 ## Active integration functions
 
