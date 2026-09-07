@@ -1,0 +1,172 @@
+{
+  "project_name": "Moires Example",
+  "project_start": {"year": 2026, "month": 1},
+  "project_end": {"year": 2030, "month": 12},
+  "entries": [
+    {
+      "category": "Social_KPIs",
+      "subcategory": "Community Engagement Metrics",
+      "id": "SCE1",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Midway",
+      "current_date": 1,
+      "target_date": 36,
+      "data_quality": 2
+    },
+    {
+      "category": "Social_KPIs",
+      "subcategory": "Community Engagement Metrics",
+      "id": "SCE2",
+      "current_value": 80,
+      "target_value": 150,
+      "progress_stage": null,
+      "current_date": 20,
+      "target_date": 60,
+      "data_quality": 4
+    },
+    {
+      "category": "Social_KPIs",
+      "subcategory": "Community Engagement Metrics",
+      "id": "SCE3",
+      "current_value": 1,
+      "target_value": 8,
+      "progress_stage": null,
+      "current_date": 10,
+      "target_date": 60,
+      "data_quality": 2
+    },
+    {
+      "category": "Social_KPIs",
+      "subcategory": "Community Engagement Metrics",
+      "id": "SCE4",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 10,
+      "target_date": 60,
+      "data_quality": 2
+    },
+    {
+      "category": "Environmental_KPIs",
+      "subcategory": "GHG emissions reduction",
+      "id": "ER1",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 2
+    },
+    {
+      "category": "Environmental_KPIs",
+      "subcategory": "GHG emissions reduction",
+      "id": "ER2",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 2
+    },
+    {
+      "category": "Environmental_KPIs",
+      "subcategory": "GHG emissions reduction",
+      "id": "ER3",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 2
+    },
+    {
+      "category": "Technological_KPIs",
+      "subcategory": "Renewable Energy Integration",
+      "id": "TEI1",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 2
+    },
+    {
+      "category": "Technological_KPIs",
+      "subcategory": "Renewable Energy Integration",
+      "id": "TEI9",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 1
+    },
+    {
+      "category": "Technological_KPIs",
+      "subcategory": "Energy Autonomy",
+      "id": "TEA1",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 2
+    },
+    {
+      "category": "Technological_KPIs",
+      "subcategory": "Energy Autonomy",
+      "id": "TEA2",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 1
+    },
+    {
+      "category": "Technological_KPIs",
+      "subcategory": "Energy Autonomy",
+      "id": "TEA4",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 2
+    },
+    {
+      "category": "Technological_KPIs",
+      "subcategory": "Transportation",
+      "id": "TT1",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Early progress",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 1
+    },
+    {
+      "category": "Technological_KPIs",
+      "subcategory": "Transportation",
+      "id": "TT3",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Very early stage",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 2
+    },
+    {
+      "category": "Technological_KPIs",
+      "subcategory": "Transportation",
+      "id": "TT4",
+      "current_value": null,
+      "target_value": null,
+      "progress_stage": "Very early stage",
+      "current_date": 1,
+      "target_date": 50,
+      "data_quality": 2
+    }
+  ]
+}

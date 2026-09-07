@@ -1,0 +1,48 @@
+Copyright (C) [2026], INESC TEC 
+
+Computation modules for muti-energy systems sizing: This tool is a software tool designed to support the techno-economic and environmental optimisation of multi-energy systems. The software reads case-study data from structured CSV input files, models energy demands and assets such as generators, converters, storage systems, fuels, electricity/energy network imports and exports, electric vehicle fleets, shiftable loads, and controllable thermal loads, and builds a mathematical optimisation model using Pyomo. The model is solved with the HiGHS solver and can optimise different objectives, including net present value minimisation, CO₂ emissions minimisation, and renewable energy integration maximisation, while also considering optional user-defined constraints related to investment, maintenance, emissions, CO₂ costs, and renewable integration. The software exports detailed operational and sizing results to CSV files, including asset capacities, system costs, energy imports and exports, fuel use, EV charging and discharging profiles, load-shifting results, and thermal comfort-related profiles. The result consists of the implemented computational workflow, input-processing routines, optimisation model formulation, demand-response modules, electric vehicle and storage modelling, asset-sizing logic, and automated result-export procedures.
+
+This software is authored by:
+António Manuel Freitas Coelho
+Bruna Daniela Costa Tavares
+Filipe Joel Nunes Soares
+
+This program makes use and is distributed with the following libraries:
+•	HiGHS (https://github.com/ERGO-Code/HiGHS)
+•	highspy (https://github.com/ERGO-Code/HiGHS)
+•	Pyomo (https://github.com/pyomo/pyomo)
+•	NumPy (https://github.com/numpy/numpy)
+•	pandas (https://github.com/pandas-dev/pandas)
+•	PLY / ply (https://github.com/dabeaz/ply)
+•	python-dateutil (https://github.com/dateutil/dateutil)
+•	pytz (https://github.com/stub42/pytz)
+•	tzdata (https://github.com/python/tzdata)
+•	six (https://github.com/benjaminp/six)
+•	tabulate (https://github.com/astanin/python-tabulate)
+
+You can reach INESC TEC Technology Transfer Office (TTO) at tech-transfer@inectec.pt, or
+Campus da Faculdade de Engenharia da Universidade do Porto
+Rua Dr. Roberto Frias
+4200-465 Porto
+Portugal
+
+Licensed under the terms of MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+

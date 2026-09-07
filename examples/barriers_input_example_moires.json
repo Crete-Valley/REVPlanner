@@ -1,0 +1,55 @@
+{
+  "barriers": [
+    {
+      "Resource Scarcity": [
+        {
+          "name": "Lack of financial support",
+          "id": "RS01",
+          "type": "range",
+          "valueLikelihood": 5,
+          "valueImpact": 5
+        },
+        {
+          "name": "Limited access to technological tools",
+          "id": "RS02",
+          "type": "range",
+          "valueLikelihood": 3,
+          "valueImpact": 4
+        }
+      ]
+    },
+    {
+      "Public Resistance": [
+        {
+          "name": "Challenge of guaranteeing public support",
+          "id": "PR01",
+          "type": "range",
+          "valueLikelihood": 4,
+          "valueImpact": 4
+        }
+      ]
+    },
+    {
+      "Short-Term Focus": [
+        {
+          "name": "Public concerns over local microclimate effects",
+          "id": "STF01",
+          "type": "range",
+          "valueLikelihood": 2,
+          "valueImpact": 3
+        }
+      ]
+    },
+    {
+      "Regulatory Delay": [
+        {
+          "name": "Complex, fragmented legislation for REVs",
+          "id": "RD01",
+          "type": "range",
+          "valueLikelihood": 3,
+          "valueImpact": 5
+        }
+      ]
+    }
+  ]
+}
